@@ -7,13 +7,13 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f2f5;
+            background-color:#FFFFC5;
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #1f4e79;
+            background-color:#77CBDA;
             color: white;
             padding: 15px;
             text-align: center;
@@ -47,8 +47,8 @@
         }
 
         button {
-            background-color: #1f4e79;
-            color: white;
+            background-color: #77CBDA
+            color: yellow;
             border: none;
             padding: 10px;
             border-radius: 5px;
@@ -56,12 +56,12 @@
         }
 
         button:hover {
-            background-color: #163a5c;
+            background-color: #77CBDA;
         }
 
         footer {
-            background-color: #1f4e79;
-            color: white;
+            background-color: #77CBDA;
+            color:white;
             text-align: center;
             padding: 10px;
         }
@@ -79,9 +79,9 @@
 
     <div class="card">
         <h2>Sobre o aluno</h2>
-        <p>Nome: __________________</p>
-        <p>Turma: __________________</p>
-        <p>Data: ____ / ____ / ______</p>
+        <p>Nome:Tayssa e Emanuelly</p>
+        <p>Turma:301</p>
+        <p>Data: 25 / 02 / 2026</p>
     </div>
 
     <div class="card">
@@ -96,14 +96,14 @@
 
     <div class="card">
         <h2>Imagem de exemplo</h2>
-        <img src="https://via.placeholder.com/200">
+        <img src="https://thumbs.dreamstime.com/b/cora%C3%A7%C3%A3o-do-gelo-do-fogo-50119443.jpg">
     </div>
 
     <div class="card">
         <h2>Link de exemplo</h2>
         <p>
-            <a href="https://www.google.com" target="_blank">
-                Abrir o Google
+            <a href="https://www.youtube.com/" target="_blank">
+                Abrir o Youtube
             </a>
         </p>
     </div>
